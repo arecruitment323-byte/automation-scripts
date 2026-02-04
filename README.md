@@ -31,3 +31,9 @@ Automation scripts to reduce manual work, improve efficiency, and automate repet
 ---
 
 ## 📂 Structure | هيكلة المشروع
+
+
+---
+
+## ✅ Status | الحالة
+- Active & Extendable
